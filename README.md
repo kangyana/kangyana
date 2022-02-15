@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on WMS
 - 🌱 I’m currently learning English
-- 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with a job
 - 💬 Ask me about javascript/typescript
 - 📫 QQ: `564469630`
