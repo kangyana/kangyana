@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning English
 - 🤔 I’m looking for help with a job
 - 💬 Ask me about javascript/typescript
-- 📫 QQ: `564469630`
+- 📫 emial: `564469630@qq.com`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://git.io/typing-svg)
 
